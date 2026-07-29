@@ -8,7 +8,7 @@ This project is an interactive Tableau dashboard that analyzes Electric Vehicle 
 
 ## Dashboard Preview
 
-![Dashboard](EV-Sales-Analysis-Tableau/dashboard-overview.png.png)
+![Dashboard](dashboard-overview.png.png)
 
 ---
 
